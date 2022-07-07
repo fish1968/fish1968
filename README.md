@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fish1968 , and Yabin CHENG is my Chinese name
-- 👀 I’m interested in python, C++ and arduino
+- 👀 I’m interested in python, C++ and Arduino
 - 🌱 I’m currently learning Math and EE
-- 💞️ I’m looking to collaborate on being a good programmer in CS and EE
+- 💞️ I’m looking to collaborate on becoming a good programmer in CS and EE
 - 📫 contact me through my email: 119010046@lilnk.cuhk.edu.cn
 
 <!---
