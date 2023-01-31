@@ -1,4 +1,3 @@
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 - 👋 Hi, I’m @fish1968 , and Yabin CHENG is my Chinese name
 - 👀 I’m interested in python, C++, Arduino and ESP32.
 - 🌱 I'm currently living in peace.
