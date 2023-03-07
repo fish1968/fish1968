@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @fish1968 , and Yabin CHENG is my Chinese name
+- 👋 Hi, I’m @fish1968 , and you may call me Yabin.
 - 👀 I’m interested in python, C++, Arduino and ESP32.
-- 🌱 I'm currently living in peace.
 - 📫 contact me through my email: 119010046@lilnk.cuhk.edu.cn
 
 <!---
