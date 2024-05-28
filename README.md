@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @fish1968 , and you may call me Yabin.
-- 👀 I’m interested in python, C++, Arduino and ESP32.
+- 👋 Hi, I’m @fish1968 , and you may call me 1968.
+- 👀 I’m interested in Embedded System Design, FPGA.
 - 📫 contact me through my email: 977381479@qq.com
 
 <!---
